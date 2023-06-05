@@ -16,7 +16,7 @@ body{
 
 /*----Hero-section----*/
 .hero{
-    background: url(../images/tim-schmidbauer-S4cDSG0R8-A-unsplash.jpg) no-repeat center center;
+    background: url(./tim-schmidbauer-S4cDSG0R8-A-unsplash.jpg) no-repeat center center;
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
